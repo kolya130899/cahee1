@@ -448,9 +448,10 @@ input::-webkit-input-placeholder{
 input::-moz-placeholder{
 	color: #fff;
 }
-/*.input--message::placeholder{
+
+.input--message::-webkit-input-placeholder{
 	color: #fff;
-}*/
+}
 .text--address{
 	display: inline-block;
 	float: left;
